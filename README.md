@@ -33,7 +33,7 @@
   </header>
   <main class="container">
   <div class="index-logo">
-      <img src="653372.jpg" width="368" height="204" alt="Вкусная-пися">
+      <img src="img/653372.jpg" width="368" height="204" alt="Вкусная-пися">
      </div>
      <section class="features">
      <div class="features-item">
