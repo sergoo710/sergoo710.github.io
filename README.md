@@ -24,7 +24,7 @@
     </header>
     <div id="contentWrapper" role="main">
     <section id="about">
-    <h1><a href="#">Barbershop Borodinski</a></h1>
+    <h1><a href="#">СОСИ ИЗ ЖОПЫ</a></h1>
     <ul>
         <li>
             <h2>быстро</h2>
