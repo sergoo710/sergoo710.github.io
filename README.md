@@ -3,3 +3,4 @@
 <img src="Снимок.PNG">
 <input type="text" name="email">
 <p class="important">жопа хуй</p>
+<input type="sumbit" class="btn">
