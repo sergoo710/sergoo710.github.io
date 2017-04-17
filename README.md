@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Barbershop Borodinsky</title>
+  <title>Место где ебут твою маму!!!</title>
   <meta charset="utf-8"
   </head>
   <body>
