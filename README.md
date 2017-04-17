@@ -1,11 +1,14 @@
-<body>
- <!DOCTYPE html>
-<htlm>
+<!DOCTYPE html>
+<html>
  <head>
    <meta charset="utf-8">
-   <title>тут могла быть твоя мать</title>
- </head>
- <body>
-   <!--а тут твой батя заходи к нам-->
- </body>
-</htlm>
+   <title>ХУЙ</title>
+   <link rel="styleseet" href="style.css>
+   </head>
+   <body>
+   <h1>хуйсоси</h1>
+   <p> всё для моего члена в твоей жопе</p>
+   <script src="scripts.js"></script>
+   </body>
+   </html>
+   
