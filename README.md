@@ -20,6 +20,4 @@
    <button type="submit" class="btn">Войти</button>
    </From>
    
-   
-  <button>Нажмёшь будешь сосать</button>
-  <a href="#" class="btn">Нажмёшь будешь сосать</a>
+   <button type="submit">сосать</button>
