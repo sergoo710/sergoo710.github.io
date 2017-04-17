@@ -1,7 +1,7 @@
 <div class="main-contacts">
 <h2 class="content-column-title">контактная информация</h2>
 <p>
-   Barbershop Borodinski <br>
+   Dildo shop <br>
    Адрес:г. Санкт-Петербург,бар 1703 <br>
    телефон:+7 (495)666-02-66
    </p>
