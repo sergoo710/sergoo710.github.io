@@ -1,15 +1,37 @@
-<div class="main-contacts">
-<h2 class="content-column-title">контактная информация</h2>
-<p>
-   Barbershop Borodinski <br>
-   Адрес:г. Санкт-Петербург,бар 1703 <br>
-   телефон:+7 (495)666-02-66
-   </p>
-   <p>
-        время ёбли:<br>
-        пн-пт:с 10:00 до 22:00 <br>
-        сб-вс:с 10:00 до 19:00
-        </p>
-        <a href="#" class="btn">Как выебать твою мать</a>
-        <a href="#" class="btn">Как выебать тебя в очко</a>
-        </div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Barbershop Borodinsky</title>
+  <meta charset="utf-8"
+  </head>
+  <body>
+  <header id="header"
+    <div class="centerWrapper"
+    <nav id="topmenu"
+    <ul>
+      <li><a href="#">Главная</a></li>
+      <li><a href="#">Информация</a></li>
+      <li><a href="#">Новости</a></li>
+      <li><a href="#">Прайс-лист</a></li>
+      <li><a href="#">Магазин</a></li>
+      <li><a href="#">Контакты</a></li>
+    </ul>
+    </nav>
+    <div id="accountMenu">
+        <a class="accountMenu__enter" href="#">вход</a>
+    </div>
+    </div>
+    </header>
+    <div id="contentWrapper" role="main">
+    <section id="about">
+    <h1><a href="#">Barbershop Borodinski</a></h1>
+    <ul>
+        <li>
+            <h2>быстро</h2>
+            <p>Мы делаем свою работы быстро! Два часа пролетят незаметно и вы -счастливый обладатель стильной стрижки-минутки!</p>
+            </li>
+            <li>
+                <h2>круто</h2>
+                <p>Забудьте,как вы стриглись раньше мы сделаем из вас звезду футбола или кино ! Во всяком случае внешне </p>
+                </li>
+                
