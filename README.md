@@ -1,7 +1,1 @@
-<div class "gallery">
-    <figure class "gallery-content">
-        <img src="541413.jpg" alt="">
-        </figure>
-        <button class "btn gallery-prev" disabled>...</button>
-        <button class "btn gallery-next">...</button>
-        </div>
+f99ec2efcc38ab1ca4c10d752415a59cf86ce2a8
