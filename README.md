@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
-  <title>Дилдо пхоне</title>
+ Дилдо пхоне
 </head>
 <body>
   <header class="mainheader">
@@ -66,6 +66,5 @@
       <p>тут могла быть ваша реклама или иди нахуй</p>
       <time datetime="2017-18-04">18 января</time>
       </li>
-      </ul>
       <a class="btn" href="https://beeg.com/">всё новости
       
