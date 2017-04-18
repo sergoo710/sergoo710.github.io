@@ -10,19 +10,19 @@
   <nav class="main-navigation">
   <ul>
     <li>
-    <a> href="#">Магазин</a>
+    <a href="">Магазин</a>
     </li>
     <li>
     <a href="#">Новости</a>
     </li>
     <li>
-    <a href="#">Прайс-лист</a>
+    <a href="img=541413.jph">Прайс-лист</a>
     </li>
     <li>
-    <a href="#">Магазин</a>
+    <a href="https://www.mysextoys.ru">Магазин</a>
     </li>
     <li>
-    <a href="#">Контакты</a>
+    <a href="https://www.youtube.com/watch?v=kW5TY60dOIs">Контакты</a>
     </li>
     </ul>
   </nav>
