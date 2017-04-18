@@ -67,7 +67,7 @@
       <time datetime="2017-18-04">18 января</time>
       </li>
       </ul>
-      <a class="btn" href="www.beeg.com">всё новости
+      <a class="btn" href="www.yandex.ru">всё новости
       </div>
       </div>
 
