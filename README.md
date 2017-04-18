@@ -10,19 +10,19 @@
   <nav class="main-navigation">
   <ul>
     <li>
-    <a> href="https://www.yandex.ru/" Магазин</a>
+    <a> href="#">Магазин</a>
     </li>
     <li>
-    <a href="#"Новости</a>
+    <a href="#">Новости</a>
     </li>
     <li>
-    <a href="#"Прайс-лист</a>
+    <a href="#">Прайс-лист</a>
     </li>
     <li>
-    <a href="#"Магазин</a>
+    <a href="#">Магазин</a>
     </li>
     <li>
-    <a href="#"Контакты</a>
+    <a href="#">Контакты</a>
     </li>
     </ul>
   </nav>
