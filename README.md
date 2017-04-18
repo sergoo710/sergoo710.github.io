@@ -16,7 +16,7 @@
     <a href="#">Новости</a>
     </li>
     <li>
-    <a href="img=541413.jph">Прайс-лист</a>
+    <a href="541413.jph">Прайс-лист</a>
     </li>
     <li>
     <a href="https://www.mysextoys.ru">Магазин</a>
