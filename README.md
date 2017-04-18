@@ -68,6 +68,6 @@
       </ul>
       </il>
       
-      <a class="btn" href="https://beeg.com/">всё новости</a>
+      <a class="btn" href="https://beeg.com/">всё новости
       
       
