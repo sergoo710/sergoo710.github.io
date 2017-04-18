@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
- Дилдо пхоне
+  <title>Дилдо пхоне</title>
 </head>
 <body>
   <header class="mainheader">
@@ -61,7 +61,7 @@
     </div>
     <div class="index-content-left">
     <h2 class="index-content-title">Новости</h2>
-    <ul class="news-preview"
+    <ul class="news-preview">
       <li>
       <p>тут могла быть ваша реклама или иди нахуй</p>
       <time datetime="2017-18-04">18 января</time>
