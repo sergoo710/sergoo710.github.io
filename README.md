@@ -33,7 +33,7 @@
   </header>
   <main class="container">
   <div class="index-logo">
-      <img src="index-logo.png.jpg" width="368" height="204" alt="Вкусная-пися">
+      <img src="img/index-logo.png" width="368" height="204" alt="Вкусная-пися">
      </div>
      <section class="features">
      <div class="features-item">
@@ -59,7 +59,16 @@
     </li>
     </ul>
     </div>
-    
-     
+    <div class="index-content-left">
+    <h2 class="index-content-title">Новости</h2>
+    <ul> class="news-preview">
+      <li>
+      <p>тут могла быть ваша реклама или иди нахуй</p>
+      <time datetime="2017-18-04">18 января</time>
+      </li>
+      </div>
+      </div>
+
+
   </body>
   </html>
