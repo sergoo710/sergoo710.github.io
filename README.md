@@ -68,9 +68,4 @@
       </li>
       </ul>
       <a class="btn" href="https://beeg.com/">всё новости
-      </div>
-      </div>
-
-
-  </body>
-  </html>
+      
