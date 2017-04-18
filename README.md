@@ -10,13 +10,13 @@
   <nav class="main-navigation">
   <ul>
     <li>
-    <a href="">Магазин</a>
+    <a href="https://www.mysextoys.ru">Магазин</a>
     </li>
     <li>
-    <a href="#">Новости</a>
+    <a href="https://news.yandex.ru/">Новости</a>
     </li>
     <li>
-    <a href="541413.jph">Прайс-лист</a>
+    <a href="https://vk.com/ivansemkinz?w=wall137727456_3731%2Fall">Прайс-лист</a>
     </li>
     <li>
     <a href="https://www.mysextoys.ru">Магазин</a>
