@@ -10,7 +10,7 @@
   <nav class="main-navigation">
   <ul>
     <li>
-    <a href="https://www.yandex.ru/" Магазин</a>
+    <a> href="https://www.yandex.ru/" Магазин</a>
     </li>
     <li>
     <a href="#"Новости</a>
