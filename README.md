@@ -65,8 +65,8 @@
       <li>
       <p>тут могла быть ваша реклама или иди нахуй</p>
       <time datetime="2017-18-04">18 января</time>
-      </ul>
       </li>
+      
       <a class="btn" href="https://beeg.com/">всё новости</a>
       
       
