@@ -9,20 +9,20 @@
   <div class="container">
   <nav class="main-navigation">
   <ul>
-    
-    <a> href="https://www.yandex.ru"Информация</a>
-    
     <li>
-    <a> href="#"Новости</a>
+    <a href="https://www.yandex.ru/" Магазин</a>
     </li>
     <li>
-    <a> href="#"Прайс-лист</a>
+    <a href="#"Новости</a>
     </li>
     <li>
-    <a> href="#"Магазин</a>
+    <a href="#"Прайс-лист</a>
     </li>
     <li>
-    <a> href="#"Контакты</a>
+    <a href="#"Магазин</a>
+    </li>
+    <li>
+    <a href="#"Контакты</a>
     </li>
     </ul>
   </nav>
