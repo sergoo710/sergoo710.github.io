@@ -9,9 +9,9 @@
   <div class="container">
   <nav class="main-navigation">
   <ul>
-    <li>
-    <a> href="https://www.yandex.ru/"Информация</a>
-    </li>
+    
+    <a> href="https://www.yandex.ru"Информация</a>
+    
     <li>
     <a> href="#"Новости</a>
     </li>
