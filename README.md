@@ -103,7 +103,6 @@
     </form>
   </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
-    </main>
     <footer class="main-footer">
       <div class="container">
      <section class="footer-contacts">
