@@ -99,5 +99,6 @@
       <input type="text" name="time" value="" placeholder="Время">
       <input type="text" name="name" value="" placeholder="Ваше имя">
       <input type="tel" name="phone" value="" placeholder="Телефон">
-      </div>
+    </form>
+  </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
