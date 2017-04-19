@@ -94,7 +94,7 @@
   <div class="index-content-right">
     <h2 class="index-content-title">записаться</h2>
     <p> Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони</p>
-    <form class="appointment-form" action="https://www.yandex.ru/" method="post">
+    <form class="appointment-form" action="" method="post">
       <input type="text" name="date" value="" placeholder="Дата">
       <input type="text" name="time" value="" placeholder="Время">
       <input type="text" name="name" value="" placeholder="Ваше имя">
@@ -103,3 +103,21 @@
     </form>
   </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
+    </main>
+    <footer class="main-footer">
+      <div class="container">
+     <section class="footer-contacts">
+       Секс магаз Ванька<br>
+       Адрес:г. Москва, улица в Москве, Дом 9и3четверти(ну тип гари)<br>
+       <a href="https://vk.com/ivansemkinz">Как найти Ваню? ЫЗ</a><br>
+       Телефон +7 (920) 744-27-38
+     </section>
+     <section class="footer-social">
+       <p>модет поебёмс?</p>
+       <a class="social-btn social-btn-vk" href="https://vk.com/ivansemkinz">Вконтакте</a>
+     </section>
+     <section class="footer-copyright">
+   <p>Разработано:</p>
+   <a class="btn" href="https://vk.com/egrooooo">Серёгой ёпта</a>
+     </section>     
+      </div>
