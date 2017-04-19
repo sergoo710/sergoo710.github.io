@@ -1,4 +1,3 @@
-
 <html lang="ru">
 <head>
   <meta charset="utf-8">
@@ -10,13 +9,13 @@
   <nav class="main-navigation">
   <ul>
     <li>
-    <a href="https://www.mysextoys.ru">Магазин</a>
+    <a href="">Магазин</a>
     </li>
     <li>
-    <a href="https://news.yandex.ru/">Новости</a>
+    <a href="#">Новости</a>
     </li>
     <li>
-    <a href="https://vk.com/ivansemkinz?w=wall137727456_3731%2Fall">Прайс-лист</a>
+    <a href="img=541413.jph">Прайс-лист</a>
     </li>
     <li>
     <a href="https://www.mysextoys.ru">Магазин</a>
@@ -67,6 +66,13 @@
       <time datetime="2017-18-04">18 января</time>
       </li>
       </ul>
+      <div class="index-content-right">
+      <h2 class="index-content-title">Фотогалерея</h2>
+      <div class="gallery">
+        <figure class="gallery-content">
+          <img src="img/photo-1.jpg" width="286" height="164" alt=""> 
+        </figure>
+        <button class="btn gallery-prev">Назад</button>
+        <button class="btn gallery-next">Вперёд</button>
+    </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
-      
-      
