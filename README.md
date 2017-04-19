@@ -94,7 +94,7 @@
   <div class="index-content-right">
     <h2 class="index-content-title">записаться</h2>
     <p> Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони</p>
-    <form class="appointment-form" action="https://vk.com/write137727456" method="post">
+    <form class="appointment-form" action="https://www.yandex.ru/" method="post">
       <input type="text" name="date" value="" placeholder="Дата">
       <input type="text" name="time" value="" placeholder="Время">
       <input type="text" name="name" value="" placeholder="Ваше имя">
