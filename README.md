@@ -70,9 +70,25 @@
       <h2 class="index-content-title">Фотогалерея</h2>
       <div class="gallery">
         <figure class="gallery-content">
-          <img src="541413.jpg" width="286" height="164" alt=""> 
+          <img src="img/photo-1.jpg" width="286" height="164" alt="">
         </figure>
         <button class="btn gallery-prev">Назад</button>
         <button class="btn gallery-next">Вперёд</button>
+    </div>
+    <div class="index-content">
+    <div class="index-content-left">
+      <h2 class="index-content-title">Контактная информация</h2>
+      <p>
+        Секс магаз Ванька<br>
+        Адрес:г. Москва, улица в Москве, Дом 9и3четверти(ну тип гари)<br>
+        Телефон +7 (920) 744-27-38
+      </p>
+      <p>Время работы:<br>
+      пн-пт: с 10:00 до 22:00<br>
+      сб-вс: с 10:00 до 19:00
+    </p>
+    <a class href="https://yandex.ru/maps/20649/kireevsk/?mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fll%3D37.926442%2C53.92249%26spn%3D0.001%252C0.001%26text%3D%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F%252C%2B%25D0%25A2%25D1%2583%25D0%25BB%25D1%258C%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%2B%25D0%25BE%25D0%25B1%25D0%25BB%25D0%25B0%25D1%2581%25D1%2582%25D1%258C%252C%2B%25D0%259A%25D0%25B8%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%25D1%2581%25D0%25BA%252C%2B%25D1%2583%25D0%25BB%25D0%25B8%25D1%2586%25D0%25B0%2B%25D0%25A7%25D0%25B5%25D1%2585%25D0%25BE%25D0%25B2%25D0%25B0%252C%2B3%2B&ll=37.925957%2C53.922852&z=17">как проехать</a>
+    <a class href="https://vk.com/write137727456">Обратная связь</a>
+    </div>
     </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
