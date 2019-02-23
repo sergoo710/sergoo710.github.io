@@ -18,7 +18,7 @@
     <a href="img=541413.jph">Прайс-лист</a>
     </li>
     <li>
-    <a href="https://www.mysextoys.ru">Магазин</a>
+    <a href="https://www.beeg.com">Магазин</a>
     </li>
     <li>
     <a href="https://www.youtube.com/watch?v=kW5TY60dOIs">Контакты</a>
