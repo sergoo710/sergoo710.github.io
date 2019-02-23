@@ -21,7 +21,7 @@
     <a href="https://www.beeg.com">Магазин</a>
     </li>
     <li>
-    <a href="https://www.youtube.com/watch?v=kW5TY60dOIs">Контакты</a>
+    <a href="https://yandex.com">Контакты</a>
     </li>
     </ul>
   </nav>
@@ -45,7 +45,7 @@
      </div>
      <div class="features-item">
      <b class="features-name">Пидор</b>
-     <p> знаешь почему нам дорог каждый клиент потому каждый клиент пидор как ты ааасука</p>
+     <p> триегра сука кк</p>
      </div>
      </section>
     <div class="index-content">
@@ -54,7 +54,7 @@
     <ul class="news-preview">
     <li>
     <p> У меня встал член,на этом всё.</p>
-    <time datetime="2017-04-17">17 января</time>
+    <time datetime="2017-04-17">17 дохуя</time>
     </li>
     </ul>
     </div>
