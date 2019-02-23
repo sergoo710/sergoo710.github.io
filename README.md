@@ -19,6 +19,7 @@
     </li>
     <li>
     <a href="https://www.mysextoys.ru">Магазин</a>
+    <a href="http://www.yandex.ru>Магазин</a>
     </li>
     <li>
     <a href="https://www.youtube.com/watch?v=kW5TY60dOIs">Контакты</a>
@@ -103,7 +104,10 @@
     </form>
   </div>
       <a class="btn" href="https://beeg.com/">всё новости</a>
+<<<<<<< HEAD
     </main>
+=======
+>>>>>>> fea14fb540e72deba9c358eb1d1648179c2dbdcd
     <footer class="main-footer">
       <div class="container">
      <section class="footer-contacts">
