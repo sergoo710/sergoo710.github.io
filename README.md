@@ -36,6 +36,18 @@
        <div class="index-logo">
          <img src="Logotip.jpeg" width="368" height="204" alt="<<Магазин Булочек>>">
          </div>
+         <section class="features">
+           <div class="features item">
+             <b class="feateures-name">Престиж</b>
+             <p>Забудьте про плохую выпечку.Мы сделаем для вас лучший хлеб который вы пробовли.</p>
+             </div>
+             <div class="features itme">
+               <b class="features-name">Качество</b>
+               <p>Наши мастера- профессионалы своего дела не стоят дёшего. Но за выпечку берут скромные деньги по сравнению с качеством и вкусом нашей  продукции</p>
+               </div>
+
+
+           </section>
        </main>
 
    </body>
