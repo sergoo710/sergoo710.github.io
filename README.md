@@ -34,7 +34,7 @@
      </header>
      <main class="container">
        <div class="index-logo">
-         <img src="img/Logotip.png" width="368" height="204" alt="<<Магазин Булочек>>">
+         <img src="img/Logotip.jpeg" width="368" height="204" alt="<<Магазин Булочек>>">
        </main>
    </body>
   </html>
