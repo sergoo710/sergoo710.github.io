@@ -35,6 +35,8 @@
      <main class="container">
        <div class="index-logo">
          <img src="Logotip.jpeg" width="368" height="204" alt="<<Магазин Булочек>>">
+         </div>
        </main>
+
    </body>
   </html>
