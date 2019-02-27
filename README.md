@@ -45,6 +45,25 @@
                <b class="features-name">Качество</b>
                <p>Наши мастера- профессионалы своего дела не стоят дёшего. Но за выпечку берут скромные деньги по сравнению с качеством и вкусом нашей  продукции</p>
                </div>
+               <div class="index-content">
+                 <div class="index-content-left">
+                   <h2 class="index-content-title">Новости</h2>
+                   <ul class="news-preview">
+                     <li>
+                       <p>Мы наконец то приобрели card reader что значит что вы сможете оплачивать покупки при помощи своей карты(А также добавлена система скидок)</p>
+                       <time datetime="2019-02-26">26 февраля</time>
+                       </li>
+                       </ul>
+                       <a class="btn" href="#">Все новости</a>
+                       <div class="index-content-title">
+                         <h2 class="index-content-title">Фотогаллерея</h2>
+                         <figure class="gallery-content">
+                           <img src="Vnutry.jpg" width="286" height="164" alt="">
+                           <button class="btn galley-prev">Назад</button>
+                           <button class="btn gallery-next">Вперёд</button>
+                           </div>
+                   </div>
+                 </div>
 
 
            </section>
