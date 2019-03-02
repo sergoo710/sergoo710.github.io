@@ -34,7 +34,7 @@
      </header>
      <main class="container">
        <div class="index-logo">
-         <img src="Logotip.jpeg" width="368" height="204" alt="<<Магазин Булочек>>">
+         <img src="Logotip.jpeg" width="350" height="240" alt="<<Магазин Булочек>>">
          </div>
          <section class="features">
            <div class="features item">
@@ -61,13 +61,64 @@
                            <img src="Vnutry.jpg" width="286" height="164" alt="">
                            <button class="btn galley-prev">Назад</button>
                            <button class="btn gallery-next">Вперёд</button>
-                           </div>
+                           <div class="index-content">
+                             <div class="index-content-left">
+                               <h2 class="index-content-title">Контактная информация</h2>
+                                 <p>
+                                   Магазин хлебобулочных издейли "БУЛКИН"<br>
+                                   Адрейс:г.Москва, Ул Пушкина, д. 19/22<br>
+                                   Телефон:+7 (800) 555-35-35
+                                   </p>
+                                   <p>
+                                     Время работы:<br>
+                                     пн-пт: с 10:00 до 20:00<br>
+                                     сб-вс: с 10:00 до 19:00
+                                     </p>
+                                     <div>
+                                       <div class="index-content-right">
+                                         <h2 class="index-content-title>">Условия доставки</h2>
+                                         <p> Доставка осуществляется по МСК области от 350 рублей + 5о руб за 1 км от мкада </p>
+                                         <a class="btn" href="yandex.ru">Как проехать</a>
+                                         <a class="btn" href="vk.com">Обратная связь</a>
+                                         </div>
+                                         <div class="index-content-right">
+                                           <h2 class="index-content-title">Забранировать</h2>
+                                           <p> Укажите желаему дату и время и мы свяжемся с вами для подтвержения брони </p>
+                                           </div>
+                                           <form class="appointment-form" action="https://yandex.ru" method="post">
+                                             <input type="text" name="data" value="" placeholder="Дата">
+                                             <input type="text" name="time" value="" placeholder="Время">
+                                             <input type="text" name="name" value="" placeholder="Имя">
+                                             <input type="tel"  name="phone" value="" placeholder="Телефон">
+                                             <button class="btn" type="submit">Отправить</button>
+
+                                             </form>
+                          </div>
+                      </div>
                    </div>
                  </div>
 
 
            </section>
        </main>
+       <footer class="main-footer">
+         <div class="container">
+           <section class="footer-contacts">
+             Магазин хлебобулочных издейли "БУЛКИН"<br>
+             Адрейс:г.Москва, Ул Пушкина, д. 19/22<br>
+             <a href="yandex.ru">Как нас найти</a>
+
+
+           </section>
+           <section class="footer-social">
+
+             </section>
+             <section class="footer-copyright">
+
+               </section>
+
+           </div>
+
 
    </body>
   </html>
