@@ -110,6 +110,7 @@
 
            </section>
            <section class="footer-social">
+             <p>Дратути</p>
 
              </section>
              <section class="footer-copyright">
@@ -117,6 +118,7 @@
                </section>
 
            </div>
+           </footer>
 
    </body>
   </html>
