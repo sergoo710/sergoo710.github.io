@@ -54,6 +54,8 @@
                        </li>
                        </ul>
                        <a class="btn" href="#">Все новости</a>
+                       </div>
+                       </div>
                        <div class="index-content-title">
                          <h2 class="index-content-title">Фотогаллерея</h2>
                          <figure class="gallery-content">
@@ -92,11 +94,11 @@
                                              <button class="btn" type="submit">Отправить</button>
 
                                              </form>
+
                           </div>
                       </div>
                    </div>
                  </div>
-
 
            </section>
        </main>
