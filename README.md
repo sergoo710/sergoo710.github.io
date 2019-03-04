@@ -1,5 +1,5 @@
-<!DOCTYPE>
- <html lang="ru">
+<!DOCTYPE html>
+<html lang="ru">    
  <head>
    <meta charset="utf-8"/>
    <title>Магазин Булочек</title>
