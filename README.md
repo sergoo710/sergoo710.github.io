@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
  <head>
-   <meta charset="utf-8">
+   <meta charset="utf-8"/>
    <title>Магазин Булочек</title>
    </head>
    <body>
@@ -30,7 +30,6 @@
              <a class="login" href="#">Вход</a>
              </div>
      </div>
-     </header>
      <main class="container">
        <div class="index-logo">
          <img src="Logotip.jpeg" width="350" height="240" alt="<<Магазин Булочек>>">
@@ -121,6 +120,6 @@
 
            </div>
            </footer>
-
+    </header>
    </body>
   </html>
