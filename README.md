@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DOCTYPE>
  <html lang="ru">
  <head>
-   <meta charset="utf-8"/>
+   <meta charset="utf-8">
    <title>Магазин Булочек</title>
    </head>
    <body>
@@ -28,7 +28,6 @@
           </nav>
            <div class="user-block">
              <a class="login" href="#">Вход</a>
-             <div>
 
      </div>
      </header>
