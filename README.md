@@ -29,7 +29,6 @@
            <div class="user-block">
              <a class="login" href="#">Вход</a>
 
-      <div>
      </div>
      </header>
      <main class="container">
