@@ -30,6 +30,7 @@
              <a class="login" href="#">Вход</a>
              </div>
      </div>
+     </header>
      <main class="container">
        <div class="index-logo">
          <img src="Logotip.jpeg" width="350" height="240" alt="<<Магазин Булочек>>">
@@ -98,7 +99,6 @@
                           </div>
                       </div>
                    </div>
-       </header>
        <footer class="main-footer">
          <div class="container">
            <div class="footer-contacts">
