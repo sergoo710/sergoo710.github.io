@@ -105,12 +105,17 @@
            <div class="footer-contacts">
              Магазин хлебобулочных издейли "БУЛКИН"<br>
              Адрейс:г.Москва, Ул Пушкина, д. 19/22<br>
-             <a href="yandex.ru">Как нас найти</a>
+             <a href="yandex.ru">Как нас найти</a><br>
            </div>
            <div class="footer-social">
-             <p>Дратути</p>
+             <p>Наши соц сети</p>
+             <a class="social-btn social-btn-vk" href="#">Вконтакте</a>
+             <a class="social-btn social-btn-inst" href="#">Инстаграм</a>
+             <a class="social-btn social-btn-facebook" href="#">Фейсбук</a>
              </div>
              <div class="footer-copyright">
+               <p>Разработано:</p>
+               <a class="btn" href="#">Мной</a>
                </div>
            </div>
            </footer>
