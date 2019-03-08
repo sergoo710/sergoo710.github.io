@@ -98,6 +98,7 @@
                    </div>
            </section>
        </main>
+       </header>
        <footer class="main-footer">
          <div class="container">
            <section class="footer-contacts">
@@ -112,6 +113,5 @@
                </section>
            </div>
            </footer>
-    </header>
    </body>
   </html>
