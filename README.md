@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
  <head>
-   <meta charset="utf-8">
+   <meta charset="utf-8"/>
    <title>Магазин Булочек</title>
    </head>
    <body>
@@ -61,6 +61,7 @@
                            <img src="Vnutry.jpg" width="286" height="164" alt="">
                            <button class="btn galley-prev">Назад</button>
                            <button class="btn gallery-next">Вперёд</button>
+                           </div>
                            <div class="index-content">
                              <div class="index-content-left">
                                <h2 class="index-content-title">Контактная информация</h2>
@@ -91,13 +92,10 @@
                                              <input type="text" name="name" value="" placeholder="Имя">
                                              <input type="tel"  name="phone" value="" placeholder="Телефон">
                                              <button class="btn" type="submit">Отправить</button>
-
                                              </form>
-
                           </div>
                       </div>
                    </div>
-
            </section>
        </main>
        <footer class="main-footer">
@@ -109,12 +107,9 @@
            </section>
            <section class="footer-social">
              <p>Дратути</p>
-
              </section>
              <section class="footer-copyright">
-
                </section>
-
            </div>
            </footer>
     </header>
