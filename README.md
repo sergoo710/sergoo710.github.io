@@ -34,6 +34,7 @@
        <div class="index-logo">
          <img src="Logotip.jpeg" width="350" height="240" alt="<<Магазин Булочек>>">
          </div>
+         </main>
          <section class="features">
            <div class="features item">
              <b class="feateures-name">Престиж</b>
@@ -55,7 +56,6 @@
                        <a class="btn" href="#">Все новости</a>
                        </div>
                        </div>
-                       </main>
                        <div class="index-content-title">
                          <h2 class="index-content-title">Фотогаллерея</h2>
                          <figure class="gallery-content">
