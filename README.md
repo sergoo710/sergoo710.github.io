@@ -101,16 +101,16 @@
        </header>
        <footer class="main-footer">
          <div class="container">
-           <section class="footer-contacts">
+           <div class="footer-contacts">
              Магазин хлебобулочных издейли "БУЛКИН"<br>
              Адрейс:г.Москва, Ул Пушкина, д. 19/22<br>
              <a href="yandex.ru">Как нас найти</a>
-           </section>
-           <section class="footer-social">
+           </div>
+           <div class="footer-social">
              <p>Дратути</p>
-             </section>
-             <section class="footer-copyright">
-               </section>
+             </div>
+             <div class="footer-copyright">
+               </div>
            </div>
            </footer>
    </body>
