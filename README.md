@@ -55,6 +55,7 @@
                        <a class="btn" href="#">Все новости</a>
                        </div>
                        </div>
+                       </main>
                        <div class="index-content-title">
                          <h2 class="index-content-title">Фотогаллерея</h2>
                          <figure class="gallery-content">
@@ -97,8 +98,6 @@
                           </div>
                       </div>
                    </div>
-           </section>
-       </main>
        </header>
        <footer class="main-footer">
          <div class="container">
