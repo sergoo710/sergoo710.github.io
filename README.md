@@ -61,6 +61,7 @@
                            <img src="Vnutry.jpg" width="286" height="164" alt="">
                            <button class="btn galley-prev">Назад</button>
                            <button class="btn gallery-next">Вперёд</button>
+                           </figure>
                            </div>
                            <div class="index-content">
                              <div class="index-content-left">
